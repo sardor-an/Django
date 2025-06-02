@@ -1,1 +1,4 @@
 - 2025, 2nd june.
+     - django-admin startproject
+     - python3 manage.py startapp
+     - define that there is a new app to settings
